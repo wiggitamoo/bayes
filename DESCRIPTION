@@ -1,0 +1,11 @@
+Package: Bayes
+Type: Package
+Title: Bayes
+Version: 1.0
+Date: 2015-03-03
+Author: Andre Henriques
+Maintainer: Andre Henriques <andrec.henriques@gmail.com>
+Description: Learn Bayes
+License: Contact Andre Henriques for license information
+Imports:
+    LearnBayes
